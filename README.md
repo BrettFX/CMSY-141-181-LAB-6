@@ -1,0 +1,2 @@
+# CMSY-141-181-LAB-6
+In this program, you will demonstrate a working knowledge of using pointers and arrays. Specifically in this program, you will need to write a program that dynamically allocates an array large enough to hold a user-defined number of test scores. The key word here is dynamically (uses the new operator). Once all the scores are entered from getData function, the array should be passed to classAverage function that calculates the average test score and finally determine if the scores are passing or failing, along with how many of each.
